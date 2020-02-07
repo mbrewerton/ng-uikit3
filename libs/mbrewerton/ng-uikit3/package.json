@@ -1,0 +1,10 @@
+{
+  "name": "@mbrewerton/ng-uikit3",
+  "version": "0.0.1",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "uikit": "^3.3.0"
+  }
+}

@@ -17,7 +17,27 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "uk-button": [
+        "dist/uk-button"
+      ],
+      "uk-button/*": [
+        "dist/uk-button/*"
+      ],
+      "uk-core": [
+        "dist/uk-core"
+      ],
+      "uk-core/*": [
+        "dist/uk-core/*"
+      ],
+      "@mbrewerton/ng-uikit3": [
+        "dist/mbrewerton/ng-uikit3"
+      ],
+      "@mbrewerton/ng-uikit3/*": [
+        "dist/mbrewerton/ng-uikit3/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
